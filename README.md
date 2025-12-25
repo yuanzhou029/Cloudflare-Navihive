@@ -52,7 +52,7 @@
 2. **新建 wrangler.jsonc 文件** 从 wrangler.template.jsonc 复制然后修改
 3. **一键部署** → [![Deploy](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/yuanzhou029/Cloudflare-Navihive)
 4. **配置数据库** → 按照[部署指南](https://zqq-nuli.github.io/Cloudflare-Navihive/deployment/)创建 D1 数据库
-   数据库如下：
+5. **数据库如下：**
    -- 创建分组表
 ```
    CREATE TABLE IF NOT EXISTS groups (
